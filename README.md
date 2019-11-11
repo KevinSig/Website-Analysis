@@ -1,3 +1,3 @@
 # Website-Analysis
 
-Using sql commands with SQLITE3 in Python3 notebook. 
+Using SQL commands with SQLITE3 in Python3 notebook. 
